@@ -5,6 +5,15 @@
 This project is a **real-time face mask detection system** using a webcam. It uses **EfficientNet** as the base model (transfer learning) and OpenCV's **Haar Cascade** for face detection. The model predicts whether a person is **wearing a mask** or **not wearing a mask**, and displays it on the video feed.
 
 ---
+### 🖼️ Screenshots
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/bdc8399a-d314-4c0b-ba25-50c29411ba86" width="45%" />
+  <img src="https://github.com/user-attachments/assets/11282c76-065f-4efd-ace0-f17623e609cd" width="45%" />
+</p>
+
+
+
 
 ### 📁 Folder Structure
 
