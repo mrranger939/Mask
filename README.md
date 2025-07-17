@@ -13,7 +13,7 @@ This project is a **real-time face mask detection system** using a webcam. It us
 </p>
 
 
-
+---
 
 ### 📁 Folder Structure
 
